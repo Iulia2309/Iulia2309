@@ -12,7 +12,7 @@
 
 Портолио моих проектов, выполненных во время учёбы:
 
-[Iulia2309/yandex-practicum-projects](Iulia2309/yandex-practicum-projects)
+[Iulia2309/yandex-practicum-projects](https://github.com/Iulia2309/yandex-practicum-projects.git)
 
 
 
