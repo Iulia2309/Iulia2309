@@ -12,7 +12,7 @@
 
 Портолио моих проектов, выполненных во время учёбы:
 
-[Учебные проекты](yandex-practicum-projects)
+[yandex-practicum-projects](yandex-practicum-projects)
 
 
 
